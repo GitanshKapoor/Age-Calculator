@@ -9,7 +9,7 @@ You can Access the Source Code from Above.
 
 **Language:** Python.
 
-**Graphic Tools:** Pycharm, Atom, GDB.
+**IDE/Tools:** Pycharm, Atom, GDB.
 
 **Hosting:** Github.
 
